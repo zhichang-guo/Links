@@ -33,3 +33,11 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [EMC CICE](https://github.com/NOAA-EMC/CICE/) | [SOCA](https://github.com/JCSDA-internal/soca) | [RAPID](https://github.com/c-h-david/rapid/) | 
 | [DATM MOM6 CICE5](https://github.com/NOAA-EMC/DATM-MOM6-CICE5/wiki) | [UMD DA](https://github.com/UMD-AOSC/DA_Tutorial) | [CliMA Land](https://github.com/CliMA/Land) | 
 | [Global workflow](https://github.com/NOAA-EMC/global-workflow) | [DAPPER](https://github.com/nansencenter/DAPPER) | | 
+
+----------------------
+
+<h3><a id="user-content-links" href="#links">Websites</a></h3>
+
+| Modeling | DA | Land | Other |
+| --- | --- | --- | --- |
+| [SOCA](http://soca.jcsda.org/master/) | [JEDA](https://jointcenterforsatellitedataassimilation-jedi-docs.readthedocs-hosted.com/en/latest/index.html)| [Noah MP](https://ral.ucar.edu/solutions/products/noah-multiparameterization-land-surface-model-noah-mp-lsm) | [Snow](https://wiki.ucar.edu/display/probhazardvx/Verification+datasets) |
