@@ -40,5 +40,5 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 
 | Modeling | DA | Land | Other |
 | --- | --- | --- | --- |
-| [SOCA](http://soca.jcsda.org/master/) | [JEDA](https://jointcenterforsatellitedataassimilation-jedi-docs.readthedocs-hosted.com/en/latest/index.html)| [Noah MP](https://ral.ucar.edu/solutions/products/noah-multiparameterization-land-surface-model-noah-mp-lsm) | |
-| [FV3GFS VLab](https://vlab.ncep.noaa.gov/group/fv3gfs/) | [JCSDA](https://www.jcsda.org/) | [Snow](https://wiki.ucar.edu/display/probhazardvx/Verification+datasets) | [AIM](https://aim.rdhpcs.noaa.gov/cgi-bin/request.pl) [CLC] (https://doc.csod.com/client/doc/default.aspx)| 
+| [SOCA](http://soca.jcsda.org/master/) | [JEDA](https://jointcenterforsatellitedataassimilation-jedi-docs.readthedocs-hosted.com/en/latest/index.html)| [Noah MP](https://ral.ucar.edu/solutions/products/noah-multiparameterization-land-surface-model-noah-mp-lsm) | [AIM](https://aim.rdhpcs.noaa.gov/cgi-bin/request.pl) |
+| [FV3GFS VLab](https://vlab.ncep.noaa.gov/group/fv3gfs/) | [JCSDA](https://www.jcsda.org/) | [Snow](https://wiki.ucar.edu/display/probhazardvx/Verification+datasets) | [AIM](https://aim.rdhpcs.noaa.gov/cgi-bin/request.pl)  [CLC](https://doc.csod.com/client/doc/default.aspx)| 
