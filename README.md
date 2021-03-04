@@ -8,9 +8,9 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [Weekly Telework Report](https://docs.google.com/document/d/159SZEv9FYzo07s0pOIH_IscfyCnwekO3xVVqV8MlDZQ/edit#) | [Land DA Meeting Notes](https://docs.google.com/document/d/1WImsN0_2HCNxp4GBdv8g_aLNAGPKQkEmlX77C7onu38/edit) | [UFS CMEPS Applications](https://docs.google.com/document/d/1V9Uk3i1LUlzIjYF-mbPSHAIfBshB0kKXmCu8FaCQIjs/edit) | [Global Workflow](https://github.com/NOAA-EMC/global-workflow/wiki/HPC-Settings-&-Help) |
 | [Monthly Progress Report](https://docs.google.com/document/d/1QTBJMVJ5g_hssJwPHOhJpeO9BJakT4YySTF0h43jLS4/edit#heading=h.byg1e6af0yjd) | [Land DA Drive](https://drive.google.com/drive/folders/1JtyRB8iEBYLyQRKKJmdjTFeA4oSamnfp) | [Coupled Model Meeting Notes](https://docs.google.com/document/d/142j_lanb9p8AM4W5BCARc5GyzWSCMmIt7E78hT13XdQ/edit) |  |
 | [Land Meeting Notes](https://drive.google.com/drive/folders/1I1sVHzjTpFmIeTdrudyMRfFA_U_8OFtB) | [Land DA Papers](https://drive.google.com/drive/folders/1eCxBNbnWCSvnAERKeJZp9enWwzTZBdSP) | [MEG Recordings](https://drive.google.com/drive/folders/0BySqFAN_J6G4cWdpNzBRMkM4ZVE) | |
-| [Noah-MP Land Model Planning](https://docs.google.com/document/d/1X3itTu2Z5NJCE6b14cFk38pP7aiNPKusqIyL2NYBlY8/edit) | | [MDAB_Physics Group Meeting](https://docs.google.com/spreadsheets/d/1vDj8BmDDVXNy5B7Nt7pGaSjmcWHCCKOZqkuVGxsVax4/edit#gid=0) |  |
-| [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | | | |
-| [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | | | |
+| [Noah-MP Land Model Planning](https://docs.google.com/document/d/1X3itTu2Z5NJCE6b14cFk38pP7aiNPKusqIyL2NYBlY8/edit) | [JCSDA slack](https://app.slack.com/client/TFZ4Q8ZQQ/CG19C4ZP0) | [MDAB_Physics Group Meeting](https://docs.google.com/spreadsheets/d/1vDj8BmDDVXNy5B7Nt7pGaSjmcWHCCKOZqkuVGxsVax4/edit#gid=0) |  |
+| [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | | | [NOAA Slack](https://app.slack.com/client/T01DLTT9J81/C01D1H6R14N) |
+| [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | | | [EMC Slack](https://app.slack.com/client/T01360QHGNP/C0134CTPSFP) |
 
 ----------------------
 
