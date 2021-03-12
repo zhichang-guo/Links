@@ -11,7 +11,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [Noah-MP Land Model Planning](https://docs.google.com/document/d/1X3itTu2Z5NJCE6b14cFk38pP7aiNPKusqIyL2NYBlY8/edit) | [JCSDA slack](https://app.slack.com/client/TFZ4Q8ZQQ/CG19C4ZP0) | [MDAB_Physics Group Meeting](https://docs.google.com/spreadsheets/d/1vDj8BmDDVXNy5B7Nt7pGaSjmcWHCCKOZqkuVGxsVax4/edit#gid=0) |  |
 | [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | [JEDI Weekly Meeting Notes](https://wiki.ucar.edu/display/JEDI/General+Communication) | [NOAA Slack](https://app.slack.com/client/T01DLTT9J81/C01D1H6R14N) | |
 | [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | | [EMC Slack](https://app.slack.com/client/T01360QHGNP/C0134CTPSFP) | |
-
+|  |  | [UFS Webinar Series](https://ufscommunity.org/ufs-webinar-series/) |  |
 ----------------------
 
 <h3><a id="user-content-repository" href="#repository">GitHub Repositories</a></h3>
@@ -43,5 +43,5 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | --- | --- | --- | --- |
 | [SOCA](http://soca.jcsda.org/master/)  [CICE NUOPC Cap](https://earthsystemmodeling.org/docs/nightly/develop/cice/index.html) | [JEDA](https://jointcenterforsatellitedataassimilation-jedi-docs.readthedocs-hosted.com/en/latest/index.html)| [NoahMP](https://ral.ucar.edu/solutions/products/noah-multiparameterization-land-surface-model-noah-mp-lsm) | [AIM](https://aim.rdhpcs.noaa.gov/cgi-bin/request.pl) |
 | [FV3GFS_VLab](https://vlab.ncep.noaa.gov/group/fv3gfs/)  [NCEP_LIBs](https://www.nco.ncep.noaa.gov/pmb/docs/libs/)  [NCEP_IDSB](https://www.nco.ncep.noaa.gov/pmb/) | [JCSDA](https://www.jcsda.org/) | [Snow](https://wiki.ucar.edu/display/probhazardvx/Verification+datasets) | [CLC](https://doc.csod.com/client/doc/default.aspx) | 
-| [ESMF](https://earthsystemmodeling.org/)  [NUOPC](https://earthsystemmodeling.org/nuopc/)  [CMEPS](https://escomp.github.io/CMEPS/versions/master/html/index.html)  [CCPP](https://dtcenter.org/community-code/common-community-physics-package-ccpp) | [FV3-JEDI](http://data.jcsda.org/doxygen/Release/1.0/fv3jedi/index.html) | [Land Products](https://www.ospo.noaa.gov/Products/land/) | [NCO](https://nsdesk.servicenowservices.com/nco) |
+| [ESMF](https://earthsystemmodeling.org/)  [NUOPC](https://earthsystemmodeling.org/nuopc/)  [CMEPS](https://escomp.github.io/CMEPS/versions/master/html/index.html)  [CCPP](https://dtcenter.org/community-code/common-community-physics-package-ccpp) | [FV3-JEDI](http://data.jcsda.org/doxygen/Release/1.0/fv3jedi/index.html) | [Land Products](https://www.ospo.noaa.gov/Products/land/) | [NCO](https://nsdesk.servicenowservices.com/nco) [UFS](https://ufscommunity.org) |
 | | | [LVT](https://lis.gsfc.nasa.gov/software/lvt) [LVT](https://gmd.copernicus.org/articles/5/869/2012/) | [HPSS](https://rdhpcs-common-docs.rdhpcs.noaa.gov/wiki/index.php/Using_the_HSMS_HPSS) [DTC](http://www.dtcenter.org/) |
