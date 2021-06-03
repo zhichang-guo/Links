@@ -10,7 +10,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [Land Meeting Notes](https://drive.google.com/drive/folders/1I1sVHzjTpFmIeTdrudyMRfFA_U_8OFtB) | [Land DA Papers](https://drive.google.com/drive/folders/1eCxBNbnWCSvnAERKeJZp9enWwzTZBdSP) | [MEG Recordings](https://drive.google.com/drive/folders/0BySqFAN_J6G4cWdpNzBRMkM4ZVE) | |
 | [Noah-MP Land Model Planning](https://docs.google.com/document/d/1X3itTu2Z5NJCE6b14cFk38pP7aiNPKusqIyL2NYBlY8/edit) | [JCSDA slack](https://app.slack.com/client/TFZ4Q8ZQQ/CG19C4ZP0) | [MDAB_Physics Group Meeting](https://docs.google.com/spreadsheets/d/1vDj8BmDDVXNy5B7Nt7pGaSjmcWHCCKOZqkuVGxsVax4/edit#gid=0) |  |
 | [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | [JEDI Weekly Meeting Notes](https://wiki.ucar.edu/display/JEDI/General+Communication) | [NOAA Slack](https://app.slack.com/client/T01DLTT9J81/C01D1H6R14N) | |
-| [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | | [EMC Slack](https://app.slack.com/client/T01360QHGNP/C0134CTPSFP) | |
+| [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | [Land Science](https://github.com/JCSDA-internal/LAND-Science) | [EMC Slack](https://app.slack.com/client/T01360QHGNP/C0134CTPSFP) | |
 | [Bi-weekly Plan](https://docs.google.com/spreadsheets/d/1xpY-eCcOgUbJfYvgerrp3pfnYcDds8SGTE13htBdE4M/edit?ts=60817f4b#gid=1653503038) |  | [UFS Webinar Series](https://ufscommunity.org/ufs-webinar-series/) |  |
 ----------------------
 
