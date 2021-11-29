@@ -9,7 +9,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [Monthly Progress Report](https://docs.google.com/document/d/1QTBJMVJ5g_hssJwPHOhJpeO9BJakT4YySTF0h43jLS4/edit#heading=h.byg1e6af0yjd) | [Land DA Drive](https://drive.google.com/drive/folders/1JtyRB8iEBYLyQRKKJmdjTFeA4oSamnfp) | [Coupled Model Meeting Notes](https://docs.google.com/document/d/142j_lanb9p8AM4W5BCARc5GyzWSCMmIt7E78hT13XdQ/edit) | [STAR Seminars](https://www.star.nesdis.noaa.gov/star/seminars.php) |
 | [Land Meeting Notes](https://drive.google.com/drive/folders/1I1sVHzjTpFmIeTdrudyMRfFA_U_8OFtB) | [Land DA Papers](https://drive.google.com/drive/folders/1eCxBNbnWCSvnAERKeJZp9enWwzTZBdSP) | [MEG Recordings](https://drive.google.com/drive/folders/0BySqFAN_J6G4cWdpNzBRMkM4ZVE) | [GrADs](http://cola.gmu.edu/grads/gadoc/gadocindex.html) |
 | [Noah-MP Land Model Planning](https://docs.google.com/document/d/1X3itTu2Z5NJCE6b14cFk38pP7aiNPKusqIyL2NYBlY8/edit) | [JCSDA slack](https://app.slack.com/client/TFZ4Q8ZQQ/CG19C4ZP0) | [MDAB_Physics Group Meeting](https://docs.google.com/spreadsheets/d/1vDj8BmDDVXNy5B7Nt7pGaSjmcWHCCKOZqkuVGxsVax4/edit#gid=0) | [wgrib2](https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/grb2_inq_scanning.html) |
-| [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | [JEDI Weekly Meeting Notes](https://wiki.ucar.edu/display/JEDI/General+Communication) | [NOAA Slack](https://app.slack.com/client/T01DLTT9J81/C01D1H6R14N) | [LandDA] (https://github.com/NOAA-EMC/LandDA)|
+| [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | [JEDI Weekly Meeting Notes](https://wiki.ucar.edu/display/JEDI/General+Communication) | [NOAA Slack](https://app.slack.com/client/T01DLTT9J81/C01D1H6R14N) | |
 | [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | [Land Science](https://github.com/JCSDA-internal/LAND-Science) | [EMC Slack](https://app.slack.com/client/T01360QHGNP/C0134CTPSFP) | |
 | [Bi-weekly Plan](https://docs.google.com/spreadsheets/d/1xpY-eCcOgUbJfYvgerrp3pfnYcDds8SGTE13htBdE4M/edit?ts=60817f4b#gid=1653503038) |  | [UFS Webinar Series](https://ufscommunity.org/ufs-webinar-series/) |  |
 ----------------------
@@ -19,7 +19,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | Modeling | DA | Land | Others |
 | --- | --- | --- | --- |
 | [ESMF](https://github.com/esmf-org/esmf.git) | [JCSDA](https://github.com/jcsda)| [NCAR NoahMP](https://github.com/NCAR/noahmp) | [Grib API](https://github.com/weathersource/grib_api) |
-| [NUOPC](https://github.com/esmf-org/esmf/tree/develop/src/addon/NUOPC) | [JCSDA-internal](https://github.com/JCSDA-internal) | [NCAR WRF Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) | |
+| [NUOPC](https://github.com/esmf-org/esmf/tree/develop/src/addon/NUOPC) | [JCSDA-internal](https://github.com/JCSDA-internal) | [NCAR WRF Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) | [LandDA](https://github.com/NOAA-EMC/LandDA) |
 | [CMEPS](https://github.com/ESCOMP/CMEPS) | [FV3-Bundle](https://github.com/JCSDA/fv3-bundle.git)| [EMC GLDAS](https://github.com/NOAA-EMC/GLDAS)| |
 | [EMC](https://github.com/NOAA-EMC/) | [FV3-JEDI](https://github.com/JCSDA/fv3-jedi) | [Helin CCPP-Physics](https://github.com/HelinWei-NOAA/ccpp-physics) | |
 | [ESCOMP](https://github.com/ESCOMP) | [JCSDA OOPS](https://github.com/jcsda/oops) | [UFS-LAND-DRIVER](https://github.com/barlage/ufs-land-driver) | |
