@@ -33,7 +33,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [EMC CICE](https://github.com/NOAA-EMC/CICE/) | [SOCA](https://github.com/JCSDA-internal/soca) [UCLDAS](https://github.com/JCSDA-internal/UCLDAS) | [RAPID](https://github.com/c-h-david/rapid/) | |
 | [DATM MOM6 CICE5](https://github.com/NOAA-EMC/DATM-MOM6-CICE5/wiki) | [UMD DA](https://github.com/UMD-AOSC/DA_Tutorial) | [CliMA Land](https://github.com/CliMA/Land) | |
 | [Global Workflow](https://github.com/NOAA-EMC/global-workflow) | [DAPPER](https://github.com/nansencenter/DAPPER) | [Flake](https://github.com/YihuaWu-NOAA/ccpp-flake-fv3gfs)| |
-| [Coupled Model Evaluation](https://github.com/NOAA-EMC/ufs-s2s-evaluation) | [NCAR DART](https://github.com/NCAR/DART) | | |
+| [Coupled Model Evaluation](https://github.com/NOAA-EMC/ufs-s2s-evaluation) | [NCAR DART](https://github.com/NCAR/DART) | [NOAH-MP Baseline](https://github.com/HelinWei-NOAA/ufs-weather-model/wiki) | |
 
 ----------------------
 
