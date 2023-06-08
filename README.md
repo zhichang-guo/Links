@@ -28,7 +28,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [EMC Post](https://github.com/NOAA-EMC/EMC_post) | [JCSDA UFO](https://github.com/jcsda/ufo) | [Helin GLDAS](https://github.com/HelinWei-NOAA/GLDAS) | |
 | [WRF](https://github.com/wrf-model/WRF) | [JCSDA SABER](https://github.com/jcsda/saber) | [Justin CCPP-Physics](https://github.com/JustinPerket/ccpp-physics) | | 
 | [EMC GSI](https://github.com/NOAA-EMC/GSI) | [JEDI-stack](https://github.com/JCSDA/jedi-stack) | [NCAR CCPP-Physics](https://github.com/NCAR/ccpp-physics) | |
-| [NCAR GMTB SCM](https://github.com/NCAR/gmtb-scm-release) | [IODA Bundle](https://github.com/jcsda-internal/ioda-bundle.git) | [NCAR WRF_HYDRO_PY](https://github.com/NCAR/wrf_hydro_py) | |
+| [NCAR CCPP_SCM](https://github.com/NCAR/ccpp-scm.git) | [IODA Bundle](https://github.com/jcsda-internal/ioda-bundle.git) | [NCAR WRF_HYDRO_PY](https://github.com/NCAR/wrf_hydro_py) | |
 | [WRF Python](https://github.com/NCAR/wrf-python) | [IODA Converters](https://github.com/JCSDA-internal/ioda-converters) | [ESMWG](https://github.com/ESMWG) | |
 | [NCAR](https://github.com/NCAR) | [HRLDAS Release](https://github.com/NCAR/hrldas-release) | [NCAR CTSM](https://github.com/ESCOMP/CTSM/) | |
 | [EMC CICE](https://github.com/NOAA-EMC/CICE/) | [SOCA](https://github.com/JCSDA-internal/soca) [UCLDAS](https://github.com/JCSDA-internal/UCLDAS) | [RAPID](https://github.com/c-h-david/rapid/) | |
