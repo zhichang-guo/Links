@@ -12,6 +12,7 @@ Collections of <a href="#reports">reports</a>, <a href="#repository">repositorie
 | [UFS Land Working Group](https://drive.google.com/drive/folders/1rp5E62CvibW9CvrRCyHxk7UZ3Qmt-oIa) | [JEDI Weekly Meeting Notes](https://wiki.ucar.edu/display/JEDI/General+Communication) | [NOAA Slack](https://app.slack.com/client/T01DLTT9J81/C01D1H6R14N) | [NetCDF](https://unidata.github.io/netcdf4-python/#attributes-in-a-netcdf-file) |
 | [Land Redmine](https://vlab.ncep.noaa.gov/redmine/projects/land-development/issues) | [Land Science](https://github.com/JCSDA-internal/LAND-Science) | [EMC Slack](https://app.slack.com/client/T01360QHGNP/C0134CTPSFP) | [UFS Forecast Model](https://docs.google.com/presentation/d/1UVq7O0djhOO99VCIbftwi-WFRdF9fjnMijZNw4kRxnM) |
 | [Bi-weekly Plan](https://docs.google.com/spreadsheets/d/1xpY-eCcOgUbJfYvgerrp3pfnYcDds8SGTE13htBdE4M/edit?ts=60817f4b#gid=1653503038) | [JCSDA Quarterly Review](https://drive.google.com/drive/folders/1NIFQxqtXqmoBbchZjdMmzW89fMZfQ3Qz) | [UFS Webinar Series](https://ufscommunity.org/ufs-webinar-series/) | [MDTF](https://www.gfdl.noaa.gov/mdtf-diagnostics/) |
+| [Noah-MP Workshop](https://drive.google.com/drive/folders/1m41NGzm3_eh3Tva5-TXko8p37aaXNUE-) |  |  | [EMC Review](https://vlab.noaa.gov/web/osti-modeling/emc-review) |
 ----------------------
 
 <h3><a id="user-content-repository" href="#repository">GitHub Repositories</a></h3>
